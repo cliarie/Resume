@@ -1,2 +1,2 @@
 # Resume
-![Resume](./main.pdf)
+![Resume](./Claire Y.pdf)
