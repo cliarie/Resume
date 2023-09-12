@@ -1,4 +1,4 @@
-#import "template.typ": *
+#import "bwtemplate.typ": *
 #show: project
 
 #let title_items = (
